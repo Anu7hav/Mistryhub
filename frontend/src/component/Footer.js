@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-contact">
           <h3>Contact Us</h3>
-          <p>Email: mohdwajid1413@gmail.com</p>
-          <p>Phone: +91 6006765561</p>
-          <p>Address: National Institute of Technology Delhi</p>
+          <p>Email: meanubhavkr@gmail.com</p>
+          <p>Phone: +91 9279004758</p>
+          <p>Address: BIT Mesra Ranchi</p>
         </div>
         <div className="footer-social">
           <h3>Follow Us</h3>
@@ -43,8 +43,7 @@ const Footer = () => {
 
           <iframe
             title="Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111864.30645634311!2d77.06319383925513!3d28.816237720752397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b1923ada2e3%3A0x1169930518add2fe!2sNational%20Institute%20of%20Technology%20Delhi!5e0!3m2!1sen!2sin!4v1686775485308!5m2!1sen!2sin"
-            
+           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14645.333271719775!2d85.42144690493717!3d23.412323607930198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4fb53f0c27be7%3A0x66180c1cf3c5e704!2sBirla%20Institute%20of%20Technology%20-%20Mesra!5e0!3m2!1sen!2sin!4v1775225434399!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
@@ -55,7 +54,7 @@ const Footer = () => {
           ></iframe>
         </div>
       </div>
-      <p className="made-with-love">Made by Mohd Wajid</p>
+      <p className="made-with-love">Made by Anubhav</p>
     </footer>
   );
 };
