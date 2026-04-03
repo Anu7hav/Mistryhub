@@ -39,7 +39,7 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mohdwajid07/MistryHub_07.git
+   git clone https://github.com/Anu7hav/Mistryhub.git
    cd mistryhub
    ```
 2. Install dependencies:
